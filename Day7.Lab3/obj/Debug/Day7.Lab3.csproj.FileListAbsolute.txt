@@ -1,0 +1,10 @@
+H:\CS\iti\.Net\Visual C# .NET\Day7\Labs\Day7.Lab3\bin\Debug\Day7.Lab3.exe.config
+H:\CS\iti\.Net\Visual C# .NET\Day7\Labs\Day7.Lab3\bin\Debug\Day7.Lab3.exe
+H:\CS\iti\.Net\Visual C# .NET\Day7\Labs\Day7.Lab3\bin\Debug\Day7.Lab3.pdb
+H:\CS\iti\.Net\Visual C# .NET\Day7\Labs\Day7.Lab3\obj\Debug\Day7.Lab3.csproj.AssemblyReference.cache
+H:\CS\iti\.Net\Visual C# .NET\Day7\Labs\Day7.Lab3\obj\Debug\Day7.Lab3.Form1.resources
+H:\CS\iti\.Net\Visual C# .NET\Day7\Labs\Day7.Lab3\obj\Debug\Day7.Lab3.Properties.Resources.resources
+H:\CS\iti\.Net\Visual C# .NET\Day7\Labs\Day7.Lab3\obj\Debug\Day7.Lab3.csproj.GenerateResource.cache
+H:\CS\iti\.Net\Visual C# .NET\Day7\Labs\Day7.Lab3\obj\Debug\Day7.Lab3.csproj.CoreCompileInputs.cache
+H:\CS\iti\.Net\Visual C# .NET\Day7\Labs\Day7.Lab3\obj\Debug\Day7.Lab3.exe
+H:\CS\iti\.Net\Visual C# .NET\Day7\Labs\Day7.Lab3\obj\Debug\Day7.Lab3.pdb
