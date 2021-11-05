@@ -1,0 +1,13 @@
+H:\CS\iti\.Net\Visual C#\Day2\Labs\ExplicitInterface\bin\Debug\netcoreapp3.1\ExplicitInterface.exe
+H:\CS\iti\.Net\Visual C#\Day2\Labs\ExplicitInterface\bin\Debug\netcoreapp3.1\ExplicitInterface.deps.json
+H:\CS\iti\.Net\Visual C#\Day2\Labs\ExplicitInterface\bin\Debug\netcoreapp3.1\ExplicitInterface.runtimeconfig.json
+H:\CS\iti\.Net\Visual C#\Day2\Labs\ExplicitInterface\bin\Debug\netcoreapp3.1\ExplicitInterface.runtimeconfig.dev.json
+H:\CS\iti\.Net\Visual C#\Day2\Labs\ExplicitInterface\bin\Debug\netcoreapp3.1\ExplicitInterface.dll
+H:\CS\iti\.Net\Visual C#\Day2\Labs\ExplicitInterface\bin\Debug\netcoreapp3.1\ExplicitInterface.pdb
+H:\CS\iti\.Net\Visual C#\Day2\Labs\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.csproj.AssemblyReference.cache
+H:\CS\iti\.Net\Visual C#\Day2\Labs\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.AssemblyInfoInputs.cache
+H:\CS\iti\.Net\Visual C#\Day2\Labs\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.AssemblyInfo.cs
+H:\CS\iti\.Net\Visual C#\Day2\Labs\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.csproj.CoreCompileInputs.cache
+H:\CS\iti\.Net\Visual C#\Day2\Labs\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.dll
+H:\CS\iti\.Net\Visual C#\Day2\Labs\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.pdb
+H:\CS\iti\.Net\Visual C#\Day2\Labs\ExplicitInterface\obj\Debug\netcoreapp3.1\ExplicitInterface.genruntimeconfig.cache
