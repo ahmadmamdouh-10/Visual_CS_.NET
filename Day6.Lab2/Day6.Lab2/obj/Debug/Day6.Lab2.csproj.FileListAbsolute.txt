@@ -1,0 +1,10 @@
+H:\CS\iti\.Net\Visual C# .NET\Day6\Labs\Day6.Lab2\Day6.Lab2\bin\Debug\Day6.Lab2.exe.config
+H:\CS\iti\.Net\Visual C# .NET\Day6\Labs\Day6.Lab2\Day6.Lab2\bin\Debug\Day6.Lab2.exe
+H:\CS\iti\.Net\Visual C# .NET\Day6\Labs\Day6.Lab2\Day6.Lab2\bin\Debug\Day6.Lab2.pdb
+H:\CS\iti\.Net\Visual C# .NET\Day6\Labs\Day6.Lab2\Day6.Lab2\obj\Debug\Day6.Lab2.csproj.AssemblyReference.cache
+H:\CS\iti\.Net\Visual C# .NET\Day6\Labs\Day6.Lab2\Day6.Lab2\obj\Debug\Day6.Lab2.Properties.Resources.resources
+H:\CS\iti\.Net\Visual C# .NET\Day6\Labs\Day6.Lab2\Day6.Lab2\obj\Debug\Day6.Lab2.csproj.GenerateResource.cache
+H:\CS\iti\.Net\Visual C# .NET\Day6\Labs\Day6.Lab2\Day6.Lab2\obj\Debug\Day6.Lab2.csproj.CoreCompileInputs.cache
+H:\CS\iti\.Net\Visual C# .NET\Day6\Labs\Day6.Lab2\Day6.Lab2\obj\Debug\Day6.Lab2.exe
+H:\CS\iti\.Net\Visual C# .NET\Day6\Labs\Day6.Lab2\Day6.Lab2\obj\Debug\Day6.Lab2.pdb
+H:\CS\iti\.Net\Visual C# .NET\Day6\Labs\Day6.Lab2\Day6.Lab2\obj\Debug\Day6.Lab2.Form1.resources
