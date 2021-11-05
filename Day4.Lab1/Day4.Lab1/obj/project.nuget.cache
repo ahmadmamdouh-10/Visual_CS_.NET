@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/1ze+3KzqXHskV2iHmHqtIVPcTWrHOzBE9AYzV2b9Xj8ec9EW2i/bBU5OpNPR3W0dfSKxyoV2Z/T0NCbxpLfFg==",
+  "success": true,
+  "projectFilePath": "H:\\CS\\iti\\.Net\\Visual C# .NET\\Day4\\Labs\\Day4.Lab1\\Day4.Lab1\\Day4.Lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a-mamdouh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

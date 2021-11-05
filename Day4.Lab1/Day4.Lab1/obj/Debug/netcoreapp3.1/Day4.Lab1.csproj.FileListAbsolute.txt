@@ -1,0 +1,13 @@
+H:\CS\iti\.Net\Visual C#\Day4\Labs\Day4.Lab1\Day4.Lab1\bin\Debug\netcoreapp3.1\Day4.Lab1.exe
+H:\CS\iti\.Net\Visual C#\Day4\Labs\Day4.Lab1\Day4.Lab1\bin\Debug\netcoreapp3.1\Day4.Lab1.deps.json
+H:\CS\iti\.Net\Visual C#\Day4\Labs\Day4.Lab1\Day4.Lab1\bin\Debug\netcoreapp3.1\Day4.Lab1.runtimeconfig.json
+H:\CS\iti\.Net\Visual C#\Day4\Labs\Day4.Lab1\Day4.Lab1\bin\Debug\netcoreapp3.1\Day4.Lab1.runtimeconfig.dev.json
+H:\CS\iti\.Net\Visual C#\Day4\Labs\Day4.Lab1\Day4.Lab1\bin\Debug\netcoreapp3.1\Day4.Lab1.dll
+H:\CS\iti\.Net\Visual C#\Day4\Labs\Day4.Lab1\Day4.Lab1\bin\Debug\netcoreapp3.1\Day4.Lab1.pdb
+H:\CS\iti\.Net\Visual C#\Day4\Labs\Day4.Lab1\Day4.Lab1\obj\Debug\netcoreapp3.1\Day4.Lab1.csproj.AssemblyReference.cache
+H:\CS\iti\.Net\Visual C#\Day4\Labs\Day4.Lab1\Day4.Lab1\obj\Debug\netcoreapp3.1\Day4.Lab1.AssemblyInfoInputs.cache
+H:\CS\iti\.Net\Visual C#\Day4\Labs\Day4.Lab1\Day4.Lab1\obj\Debug\netcoreapp3.1\Day4.Lab1.AssemblyInfo.cs
+H:\CS\iti\.Net\Visual C#\Day4\Labs\Day4.Lab1\Day4.Lab1\obj\Debug\netcoreapp3.1\Day4.Lab1.csproj.CoreCompileInputs.cache
+H:\CS\iti\.Net\Visual C#\Day4\Labs\Day4.Lab1\Day4.Lab1\obj\Debug\netcoreapp3.1\Day4.Lab1.dll
+H:\CS\iti\.Net\Visual C#\Day4\Labs\Day4.Lab1\Day4.Lab1\obj\Debug\netcoreapp3.1\Day4.Lab1.pdb
+H:\CS\iti\.Net\Visual C#\Day4\Labs\Day4.Lab1\Day4.Lab1\obj\Debug\netcoreapp3.1\Day4.Lab1.genruntimeconfig.cache
